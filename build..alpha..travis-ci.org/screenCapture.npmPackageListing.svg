@@ -1,28 +1,28 @@
 <svg height="398" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="398" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-20 18:11:15 +0000   143156 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-20 18:11:15 +0000     2773 bytes  CHANGELOG.md</tspan>
-<tspan x="10" y="58">  2.  2017-04-20 18:11:15 +0000     1059 bytes  LICENSE</tspan>
-<tspan x="10" y="74">  3.  2017-04-20 18:11:15 +0000     2704 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-20 18:11:15 +0000      308 bytes  benchmark.js</tspan>
-<tspan x="10" y="106">  5.  2017-04-20 18:11:15 +0000       71 bytes  index.d.ts</tspan>
-<tspan x="10" y="122">  6.  2017-04-20 18:11:15 +0000      218 bytes  index.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-20 18:11:15 +0000     5032 bytes  lib/compiler.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-20 18:11:15 +0000   104929 bytes  lib/parser.js</tspan>
-<tspan x="10" y="170">  9.  2017-04-20 18:11:15 +0000      621 bytes  package.json</tspan>
-<tspan x="10" y="186"> 10.  2017-04-20 18:11:15 +0000     7830 bytes  src/toml.pegjs</tspan>
-<tspan x="10" y="202"> 11.  2017-04-20 18:11:15 +0000       68 bytes  test/bad.toml</tspan>
-<tspan x="10" y="218"> 12.  2017-04-20 18:11:15 +0000      729 bytes  test/example.toml</tspan>
-<tspan x="10" y="234"> 13.  2017-04-20 18:11:15 +0000     1405 bytes  test/hard_example.toml</tspan>
-<tspan x="10" y="250"> 14.  2017-04-20 18:11:15 +0000      312 bytes  test/inline_tables.toml</tspan>
-<tspan x="10" y="266"> 15.  2017-04-20 18:11:15 +0000      174 bytes  test/literal_strings.toml</tspan>
-<tspan x="10" y="282"> 16.  2017-04-20 18:11:15 +0000      275 bytes  test/multiline_eat_whitespace.toml</tspan>
-<tspan x="10" y="298"> 17.  2017-04-20 18:11:15 +0000      147 bytes  test/multiline_literal_strings.toml</tspan>
-<tspan x="10" y="314"> 18.  2017-04-20 18:11:15 +0000      116 bytes  test/multiline_strings.toml</tspan>
-<tspan x="10" y="330"> 19.  2017-04-20 18:11:15 +0000      774 bytes  test/smoke.js</tspan>
-<tspan x="10" y="346"> 20.  2017-04-20 18:11:15 +0000      118 bytes  test/table_arrays_easy.toml</tspan>
-<tspan x="10" y="362"> 21.  2017-04-20 18:11:15 +0000      337 bytes  test/table_arrays_hard.toml</tspan>
-<tspan x="10" y="378"> 22.  2017-04-20 18:11:15 +0000    13156 bytes  test/test_toml.js</tspan>
+<tspan x="10" y="26">  0.  2017-04-20 18:12:18 +0000   143156 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-20 18:12:18 +0000     2773 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-20 18:12:18 +0000     1059 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-20 18:12:18 +0000     2704 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-20 18:12:18 +0000      308 bytes  benchmark.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-20 18:12:18 +0000       71 bytes  index.d.ts</tspan>
+<tspan x="10" y="122">  6.  2017-04-20 18:12:18 +0000      218 bytes  index.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-20 18:12:18 +0000     5032 bytes  lib/compiler.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-20 18:12:18 +0000   104929 bytes  lib/parser.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-20 18:12:18 +0000      621 bytes  package.json</tspan>
+<tspan x="10" y="186"> 10.  2017-04-20 18:12:18 +0000     7830 bytes  src/toml.pegjs</tspan>
+<tspan x="10" y="202"> 11.  2017-04-20 18:12:18 +0000       68 bytes  test/bad.toml</tspan>
+<tspan x="10" y="218"> 12.  2017-04-20 18:12:18 +0000      729 bytes  test/example.toml</tspan>
+<tspan x="10" y="234"> 13.  2017-04-20 18:12:18 +0000     1405 bytes  test/hard_example.toml</tspan>
+<tspan x="10" y="250"> 14.  2017-04-20 18:12:18 +0000      312 bytes  test/inline_tables.toml</tspan>
+<tspan x="10" y="266"> 15.  2017-04-20 18:12:18 +0000      174 bytes  test/literal_strings.toml</tspan>
+<tspan x="10" y="282"> 16.  2017-04-20 18:12:18 +0000      275 bytes  test/multiline_eat_whitespace.toml</tspan>
+<tspan x="10" y="298"> 17.  2017-04-20 18:12:18 +0000      147 bytes  test/multiline_literal_strings.toml</tspan>
+<tspan x="10" y="314"> 18.  2017-04-20 18:12:18 +0000      116 bytes  test/multiline_strings.toml</tspan>
+<tspan x="10" y="330"> 19.  2017-04-20 18:12:18 +0000      774 bytes  test/smoke.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-20 18:12:18 +0000      118 bytes  test/table_arrays_easy.toml</tspan>
+<tspan x="10" y="362"> 21.  2017-04-20 18:12:18 +0000      337 bytes  test/table_arrays_hard.toml</tspan>
+<tspan x="10" y="378"> 22.  2017-04-20 18:12:18 +0000    13156 bytes  test/test_toml.js</tspan>
 </text>
 </svg>
